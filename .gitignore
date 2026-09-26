@@ -1,0 +1,17 @@
+# MATLAB auto-save and crash files
+*.asv
+*.m~
+matlab_crash_dump.*
+
+# Large data files
+*.mat
+*.slxc
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
